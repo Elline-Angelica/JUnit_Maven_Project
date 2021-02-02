@@ -30,7 +30,7 @@ public class WordReverserTest {
         return Arrays.asList(new String[][] {
                 { "Boot", "tooB" },
                 { "Veilig", "gilieV" },
-                { "reteiD", "Dieter" }
+                { "Elline", "enillE" }
         });
     }
 
